@@ -110,5 +110,7 @@ for (let i=0;i<150;i++){
 }
 </script>
 
-</body>
+</body>d
+
+
 </html># Nuestra-galaxia-
